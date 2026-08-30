@@ -18,7 +18,13 @@
       "protocol": "HTTP"
     }
   ],
-  "memories": [],
+  "memories": [
+    {
+      "name": "SharedMemory",
+      "eventExpiryDuration": 7,
+      "strategies": []
+    }
+  ],
   "knowledgeBases": [],
   "credentials": [],
   "evaluators": [],
